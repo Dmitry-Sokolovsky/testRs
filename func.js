@@ -1,0 +1,1 @@
+const plu = (a,b) => a + b
